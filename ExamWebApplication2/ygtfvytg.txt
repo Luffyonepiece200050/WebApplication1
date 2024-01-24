@@ -1,0 +1,19 @@
+﻿{
+
+"Name":"admin",
+"Address":"",
+"DesignationId":1,
+"Salary":80000,
+"Permanent":true,
+"Experiences":[
+    
+    {
+"Designation":"admin",
+"Comapany":"IDB",
+"StartDate":"2024-01-01",
+"EndDate":"2024-12-12"
+
+    }
+]
+
+}
